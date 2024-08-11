@@ -31,6 +31,9 @@ You can find more information in our RFdiffusion case study: https://www.adaptyv
 How to design binder:
 https://github.com/RosettaCommons/RFdiffusion#binder-design
 
+Binder design verification:
+https://github.com/nrbennet/dl_binder_design
+
 Problem Statement:
 https://design.adaptyvbio.com/
 
