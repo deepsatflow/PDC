@@ -28,6 +28,9 @@ Selected designs will be tested in our Affinity Characterization workflow which 
 
 You can find more information in our RFdiffusion case study: https://www.adaptyvbio.com/blog/rfdiff_il7ra
 
+How to design binder:
+https://github.com/RosettaCommons/RFdiffusion#binder-design
+
 Problem Statement:
 https://design.adaptyvbio.com/
 
