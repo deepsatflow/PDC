@@ -28,6 +28,15 @@ Selected designs will be tested in our Affinity Characterization workflow which 
 
 You can find more information in our RFdiffusion case study: https://www.adaptyvbio.com/blog/rfdiff_il7ra
 
+Faster AlphaFold protein structure predictions using ColabFold:
+https://www.youtube.com/watch?v=gIbCAcMDM7E&t=2s
+
+Convert PDB to FASTA:
+https://zhanggroup.org/pdb2fasta/pdb2fasta.cgi
+
+plddt:
+https://www.ebi.ac.uk/training/online/courses/alphafold/inputs-and-outputs/evaluating-alphafolds-predicted-structures-using-confidence-scores/plddt-understanding-local-confidence/
+
 How to design binder:
 https://github.com/RosettaCommons/RFdiffusion#binder-design
 
