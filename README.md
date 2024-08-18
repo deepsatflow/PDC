@@ -67,3 +67,6 @@ https://www.nature.com/articles/s41586-023-06415-8
 
 Protein Motifs:
 https://bio.libretexts.org/Bookshelves/Cell_and_Molecular_Biology/Book%3A_Basic_Cell_and_Molecular_Biology_(Bergtrom)/03%3A_Details_of_Protein_Structure/3.06%3A_Protein_Domains_Motifs_and_Folds_in_Protein_Structure#:~:text=Protein%20motifs%20are%20small%20regions,unique%20chemical%20or%20biological%20function.
+
+PyRoseata:
+https://www.pyrosetta.org/home
