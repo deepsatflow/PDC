@@ -1,0 +1,51 @@
+2024-08-25 06:52:58,634 Running on GPU
+2024-08-25 06:52:58,887 Found 5 citations for tools or databases
+2024-08-25 06:52:58,887 Query 1/1: test_934b4 (length 671)
+2024-08-25 06:52:59,252 Sleeping for 9s. Reason: PENDING
+2024-08-25 06:53:08,612 Sleeping for 6s. Reason: PENDING
+2024-08-25 06:53:15,001 Sleeping for 6s. Reason: RUNNING
+2024-08-25 06:53:21,322 Sleeping for 6s. Reason: RUNNING
+2024-08-25 06:53:27,649 Sleeping for 5s. Reason: RUNNING
+2024-08-25 06:53:33,019 Sleeping for 7s. Reason: RUNNING
+2024-08-25 06:53:40,366 Sleeping for 10s. Reason: RUNNING
+2024-08-25 06:53:50,779 Sleeping for 9s. Reason: RUNNING
+2024-08-25 06:54:00,137 Sleeping for 7s. Reason: RUNNING
+2024-08-25 06:54:07,502 Sleeping for 8s. Reason: RUNNING
+2024-08-25 06:54:15,816 Sleeping for 10s. Reason: RUNNING
+2024-08-25 06:54:26,169 Sleeping for 9s. Reason: RUNNING
+2024-08-25 06:54:35,474 Sleeping for 9s. Reason: RUNNING
+2024-08-25 06:54:44,775 Sleeping for 8s. Reason: RUNNING
+2024-08-25 06:54:54,423 Sleeping for 8s. Reason: PENDING
+2024-08-25 06:55:02,795 Sleeping for 10s. Reason: RUNNING
+2024-08-25 06:55:13,117 Sleeping for 5s. Reason: RUNNING
+2024-08-25 06:55:18,500 Sleeping for 8s. Reason: RUNNING
+2024-08-25 06:55:26,815 Sleeping for 9s. Reason: RUNNING
+2024-08-25 06:55:36,190 Sleeping for 10s. Reason: RUNNING
+2024-08-25 06:55:49,435 Setting max_seq=508, max_extra_seq=2048
+2024-08-25 06:57:44,920 alphafold2_multimer_v3_model_1_seed_000 recycle=0 pLDDT=90.9 pTM=0.832 ipTM=0.922
+2024-08-25 06:58:13,025 alphafold2_multimer_v3_model_1_seed_000 recycle=1 pLDDT=92.4 pTM=0.861 ipTM=0.946 tol=1.43
+2024-08-25 06:58:41,631 alphafold2_multimer_v3_model_1_seed_000 recycle=2 pLDDT=92.5 pTM=0.862 ipTM=0.945 tol=0.25
+2024-08-25 06:58:41,633 alphafold2_multimer_v3_model_1_seed_000 took 165.5s (2 recycles)
+2024-08-25 06:59:10,815 alphafold2_multimer_v3_model_2_seed_000 recycle=0 pLDDT=90.4 pTM=0.832 ipTM=0.926
+2024-08-25 06:59:39,099 alphafold2_multimer_v3_model_2_seed_000 recycle=1 pLDDT=92.8 pTM=0.865 ipTM=0.955 tol=1.55
+2024-08-25 07:00:07,509 alphafold2_multimer_v3_model_2_seed_000 recycle=2 pLDDT=92.9 pTM=0.864 ipTM=0.955 tol=0.219
+2024-08-25 07:00:07,510 alphafold2_multimer_v3_model_2_seed_000 took 85.0s (2 recycles)
+2024-08-25 07:00:36,669 alphafold2_multimer_v3_model_3_seed_000 recycle=0 pLDDT=88.7 pTM=0.785 ipTM=0.904
+2024-08-25 07:01:05,005 alphafold2_multimer_v3_model_3_seed_000 recycle=1 pLDDT=91.6 pTM=0.849 ipTM=0.94 tol=1.49
+2024-08-25 07:01:33,295 alphafold2_multimer_v3_model_3_seed_000 recycle=2 pLDDT=91.4 pTM=0.843 ipTM=0.939 tol=0.345
+2024-08-25 07:01:33,297 alphafold2_multimer_v3_model_3_seed_000 took 85.0s (2 recycles)
+2024-08-25 07:02:02,438 alphafold2_multimer_v3_model_4_seed_000 recycle=0 pLDDT=90.2 pTM=0.826 ipTM=0.916
+2024-08-25 07:02:30,862 alphafold2_multimer_v3_model_4_seed_000 recycle=1 pLDDT=92.4 pTM=0.867 ipTM=0.953 tol=1.28
+2024-08-25 07:02:59,270 alphafold2_multimer_v3_model_4_seed_000 recycle=2 pLDDT=92.4 pTM=0.867 ipTM=0.954 tol=0.409
+2024-08-25 07:02:59,272 alphafold2_multimer_v3_model_4_seed_000 took 85.2s (2 recycles)
+2024-08-25 07:03:28,350 alphafold2_multimer_v3_model_5_seed_000 recycle=0 pLDDT=88.8 pTM=0.807 ipTM=0.908
+2024-08-25 07:03:56,732 alphafold2_multimer_v3_model_5_seed_000 recycle=1 pLDDT=91.9 pTM=0.86 ipTM=0.948 tol=1.89
+2024-08-25 07:04:25,120 alphafold2_multimer_v3_model_5_seed_000 recycle=2 pLDDT=92 pTM=0.861 ipTM=0.948 tol=0.341
+2024-08-25 07:04:25,121 alphafold2_multimer_v3_model_5_seed_000 took 85.0s (2 recycles)
+2024-08-25 07:04:25,933 reranking models by 'multimer' metric
+2024-08-25 07:04:25,934 rank_001_alphafold2_multimer_v3_model_4_seed_000 pLDDT=92.4 pTM=0.867 ipTM=0.954
+2024-08-25 07:04:25,935 rank_002_alphafold2_multimer_v3_model_2_seed_000 pLDDT=92.9 pTM=0.864 ipTM=0.955
+2024-08-25 07:04:25,936 rank_003_alphafold2_multimer_v3_model_5_seed_000 pLDDT=92 pTM=0.861 ipTM=0.948
+2024-08-25 07:04:25,936 rank_004_alphafold2_multimer_v3_model_1_seed_000 pLDDT=92.5 pTM=0.862 ipTM=0.945
+2024-08-25 07:04:25,937 rank_005_alphafold2_multimer_v3_model_3_seed_000 pLDDT=91.4 pTM=0.843 ipTM=0.939
+2024-08-25 07:04:28,439 Done
